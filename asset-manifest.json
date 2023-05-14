@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anujblk/React_Task_Websultanate/static/css/main.b9f04d1d.css",
+    "main.js": "/Anujblk/React_Task_Websultanate/static/js/main.23f3c5ac.js",
+    "static/js/787.3d0513c3.chunk.js": "/Anujblk/React_Task_Websultanate/static/js/787.3d0513c3.chunk.js",
+    "index.html": "/Anujblk/React_Task_Websultanate/index.html",
+    "main.b9f04d1d.css.map": "/Anujblk/React_Task_Websultanate/static/css/main.b9f04d1d.css.map",
+    "main.23f3c5ac.js.map": "/Anujblk/React_Task_Websultanate/static/js/main.23f3c5ac.js.map",
+    "787.3d0513c3.chunk.js.map": "/Anujblk/React_Task_Websultanate/static/js/787.3d0513c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f04d1d.css",
+    "static/js/main.23f3c5ac.js"
+  ]
+}
